@@ -19,11 +19,11 @@
 
 - 🌱 I’m currently learning **programming languages like C, C++ etc.**
 
-- 📫 How to reach me **fiazeahamed2017@gmail.com**
+- 📫 How to reach me: **fiazeahamed2017@gmail.com**
 
-- ⚡ Fun fact **I like to watch videos in 2x speed, hihi.**
+- ⚡ Fun fact: **I like to watch videos in 2x speed, hihi.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/fiazeahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fiazeahamed" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/fiaze-ahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fiaze ahamed" height="30" width="40" /></a>
@@ -35,7 +35,7 @@
   <a href="https://discord.gg/fiaze_ahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fiaze_ahamed" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -56,3 +56,5 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fiaze-shu&" alt="fiaze-shu" />
 </p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Fiaze_SHU29?ext=heatmap)
